@@ -1,0 +1,5 @@
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.Core\bin\Debug\Kashihara.Core.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.Core\bin\Debug\Kashihara.Core.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.Core\obj\Debug\Kashihara.Core.csprojResolveAssemblyReference.cache
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.Core\obj\Debug\Kashihara.Core.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.Core\obj\Debug\Kashihara.Core.pdb

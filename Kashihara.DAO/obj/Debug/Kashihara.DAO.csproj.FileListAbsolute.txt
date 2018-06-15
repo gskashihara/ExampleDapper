@@ -1,0 +1,11 @@
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Kashihara.DAO.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Kashihara.DAO.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Dapper.Contrib.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Dapper.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Kashihara.DTO.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Kashihara.DTO.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Dapper.xml
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\bin\Debug\Dapper.Contrib.xml
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\obj\Debug\Kashihara.DAO.csprojResolveAssemblyReference.cache
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\obj\Debug\Kashihara.DAO.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.DAO\obj\Debug\Kashihara.DAO.pdb

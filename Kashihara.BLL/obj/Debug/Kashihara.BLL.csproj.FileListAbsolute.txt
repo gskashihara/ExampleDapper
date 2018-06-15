@@ -1,0 +1,13 @@
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Kashihara.BLL.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Kashihara.BLL.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\obj\Debug\Kashihara.BLL.csprojResolveAssemblyReference.cache
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\obj\Debug\Kashihara.BLL.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\obj\Debug\Kashihara.BLL.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Kashihara.DAO.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Kashihara.DTO.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Dapper.Contrib.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Dapper.dll
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Kashihara.DAO.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Kashihara.DTO.pdb
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Dapper.Contrib.xml
+C:\Users\guilhermek\Documents\Visual Studio 2015\Projects\Kashihara\Kashihara.BLL\bin\Debug\Dapper.xml
